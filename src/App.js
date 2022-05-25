@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
         <LoadPost></LoadPost>
-        {/* <Division name = 'Nowakhali' specialty='bivag'></Division>
         <Division name = 'Nowakhali' specialty='bivag'></Division>
-        <Division name = 'Nowakhali' specialty='bivag'></Division> */}
+        <Division name = 'Nowakhali' specialty='bivag'></Division>
+        <Division name = 'Nowakhali' specialty='bivag'></Division>
     </div>
   );
 }
